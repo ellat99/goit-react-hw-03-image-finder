@@ -10,6 +10,7 @@ import { Audio } from 'react-loader-spinner';
   wrapperStyle
   wrapperClass
 />;
+import './style.css';
 
 const Loader = () => {
   return (

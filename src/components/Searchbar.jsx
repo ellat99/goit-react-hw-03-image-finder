@@ -1,5 +1,5 @@
-// Searchbar.js
 import React, { useState } from 'react';
+import './style.css';
 
 const Searchbar = ({ onSubmit }) => {
   const [query, setQuery] = useState('');

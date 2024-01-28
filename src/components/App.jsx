@@ -5,7 +5,7 @@ import ImageGallery from './ImageGallery';
 import Button from './Button';
 import Loader from './Loader';
 import Modal from './Modal';
-import style from './style.css';
+import './style.css';
 
 const API_KEY = '40911320-1da4b5a9cd0adc69738b3c236';
 const API_URL = 'https://pixabay.com/api/';

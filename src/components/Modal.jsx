@@ -1,5 +1,6 @@
 // Modal.js
 import React from 'react';
+import './style.css';
 
 const Modal = ({ imageUrl, onClose }) => {
   return (
