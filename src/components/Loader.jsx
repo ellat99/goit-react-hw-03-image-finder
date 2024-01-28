@@ -1,5 +1,6 @@
 // Loader.js
 import React from 'react';
+import './style.css';
 import { Audio } from 'react-loader-spinner';
 <Audio
   height="80"
@@ -10,7 +11,6 @@ import { Audio } from 'react-loader-spinner';
   wrapperStyle
   wrapperClass
 />;
-import './style.css';
 
 const Loader = () => {
   return (
